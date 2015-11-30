@@ -1,0 +1,20 @@
+{
+  "name": "cookie-manager",
+  "version": "1.0.0",
+  "description": "A cookie manager for the browser",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markscripter/cookie-manager.git"
+  },
+  "author": {
+    "name": "Mark Scripter",
+    "email": "markscript@gmail.com",
+    "url": "http://github.com/markscripter/"
+  },
+  "bugs": {
+    "url": "https://github.com/markscripter/cookie-manager/issues"
+  },
+  "homepage": "https://github.com/markscripter/cookie-manager#readme"
+}
